@@ -1,0 +1,10 @@
+wjm=input('请输入文件名：\n','s');
+y=imread(wjm);
+imshow(y)
+set(gcf,'outerposition',get(0,'screensize'));
+[x0,y0]=ginput;
+[x1,y1]=ginput;
+x1=(x1-min(x0))/(max(x0)-min(x0));
+y1=(max(y0)-y1)/(max(y0)-min(y0));
+plot(x1,y1,'o')
+axis([0,1,0,1])
