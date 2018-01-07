@@ -2,8 +2,8 @@
 Mathematical Modeling Qulification Contest at ChongQing University (2013 Spring Term)
 
 ## Contents
-### 1. Source Files (Graph Coloring Problem Solver by Liu Zhe, Time Series analysis Program and Self-Orgranized Mappig Neural Network CLuster by Yang Yang)
-### 2. Contest paper (Wrote by all of us and Edited by Ying Xiong)
+### 1. Source Files (Graph Coloring Problem Solver by Liu Zhe, Time Series analysis Program and Self-Orgranized Mappig Neural Network Cluster by Yang Yang)
+### 2. Contest paper (Wrote by all of us and edited by Ying Xiong)
 
 ## Declaration
 ### These jobs were finished by our  whole team, all of us have the copyright. 
